@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "JavaScript Standard Modulus Style",
   "main": "index.js",
+  "bin": {
+    "mod-standard": "./bin/cmd.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -45,5 +48,10 @@
   "bugs": {
     "url": "https://github.com/onmodulus/standard/issues"
   },
-  "homepage": "https://github.com/onmodulus/standard#readme"
+  "homepage": "https://github.com/onmodulus/standard#readme",
+  "dependencies": {
+    "eslint": "1.2.1",
+    "eslint-config-modulus": "onmodulus/eslint-config",
+    "standard-engine": "2.0.6"
+  }
 }
