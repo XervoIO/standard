@@ -45,5 +45,8 @@
   "bugs": {
     "url": "https://github.com/onmodulus/standard/issues"
   },
-  "homepage": "https://github.com/onmodulus/standard#readme"
+  "homepage": "https://github.com/onmodulus/standard#readme",
+  "dependencies": {
+    "eslint": "1.2.1"
+  }
 }
