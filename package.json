@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "JavaScript Standard Modulus Style",
   "main": "index.js",
+  "bin": {
+    "mod-standard": "./bin/cmd.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
