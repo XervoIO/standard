@@ -1,0 +1,49 @@
+{
+  "name": "@modulus/standard",
+  "version": "0.0.0",
+  "description": "JavaScript Standard Modulus Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onmodulus/standard.git"
+  },
+  "keywords": [
+    "JavaScript Standard Modulus Style",
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "enforce",
+    "eslint",
+    "hint",
+    "jscs",
+    "jshint",
+    "lint",
+    "policy",
+    "quality",
+    "simple",
+    "standard",
+    "standard style",
+    "style",
+    "style checker",
+    "style linter",
+    "verify"
+  ],
+  "author": "Jack Boberg <hello@jackboberg.info> (http://jackboberg.info/)",
+  "maintainers": [
+    "Matt Hernandez <matt@modulus.io>",
+    "Tara Manicsic <tara@modulus.io>",
+    "Francesca Varney <fran@modulus.io>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onmodulus/standard/issues"
+  },
+  "homepage": "https://github.com/onmodulus/standard#readme"
+}
