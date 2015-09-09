@@ -51,7 +51,7 @@
   "homepage": "https://github.com/onmodulus/standard#readme",
   "dependencies": {
     "eslint": "1.2.1",
-    "eslint-config-modulus": "onmodulus/eslint-config",
+    "eslint-config-modulus": "*",
     "standard-engine": "2.0.6"
   }
 }
