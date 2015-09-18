@@ -52,6 +52,7 @@
   "dependencies": {
     "eslint": "1.2.1",
     "eslint-config-modulus": "*",
+    "eslint-plugin-hapi": "1.2.0",
     "standard-engine": "2.0.6"
   }
 }
