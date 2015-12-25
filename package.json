@@ -57,6 +57,7 @@
     "standard-engine": "2.2.5"
   },
   "devDependencies": {
+    "code": "~1.5.0",
     "lab": "~6.2.0"
   }
 }
