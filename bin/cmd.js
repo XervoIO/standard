@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const Engine = require('standard-engine')
-const Options = require('../options')
+const Engine = require('standard-engine');
+const Options = require('../options');
 
-Engine.cli(Options)
+Engine.cli(Options);
