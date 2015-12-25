@@ -55,5 +55,8 @@
     "eslint-plugin-hapi": "4.0.0",
     "eslint-plugin-promiseparams": "1.0.7",
     "standard-engine": "2.2.5"
+  },
+  "devDependencies": {
+    "lab": "~6.2.0"
   }
 }
