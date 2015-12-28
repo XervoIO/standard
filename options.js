@@ -1,5 +1,5 @@
-var Path = require('path')
-var Pacakge = require('./package.json')
+const Path = require('path');
+const Pacakge = require('./package.json');
 
 module.exports = {
   cmd: 'mod-standard',
@@ -10,4 +10,4 @@ module.exports = {
   eslintConfig: {
     configFile: Path.join(__dirname, '.eslintrc')
   }
-}
+};
