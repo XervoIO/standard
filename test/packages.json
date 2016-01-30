@@ -1,7 +1,8 @@
 [
   {
     "name": "get-version",
-    "repo": "https://github.com/onmodulus/get-version"
+    "repo": "https://github.com/onmodulus/get-version",
+    "disabled": "pending changes to promises is tests"
   },
   {
     "name": "knock-knock",
