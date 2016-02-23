@@ -53,7 +53,7 @@
   "homepage": "https://github.com/onmodulus/standard#readme",
   "dependencies": {
     "eslint": "1.10.3",
-    "eslint-config-modulus": "0.3.1",
+    "eslint-config-modulus": "0.4.2",
     "eslint-plugin-hapi": "4.0.0",
     "eslint-plugin-promise": "1.0.8",
     "standard-engine": "3.2.4"
