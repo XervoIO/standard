@@ -10,6 +10,6 @@ module.exports = {
   bugs: Package.bugs.url,
   tagline: 'JavaScript Standard Modulus Style',
   eslintConfig: {
-    configFile: Path.join(__dirname, '.eslintrc')
+    configFile: Path.join(__dirname, 'eslintrc.json')
   }
 };
