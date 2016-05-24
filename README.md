@@ -1,7 +1,7 @@
 # JavaScript Standard Modulus Style
 
 [![version](https://img.shields.io/npm/v/@modulus/standard.svg?style=flat-square)][version]
-[![build](https://img.shields.io/travis/onmodulus/standard.svg?style=flat-square)][build]
+[![build](https://img.shields.io/travis/onmodulus/standard/master.svg?style=flat-square)][build]
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 
 A [standard-engine][engine] implementation wrapping the
