@@ -60,7 +60,7 @@
   },
   "devDependencies": {
     "code": "~1.5.0",
-    "lab": "~6.2.0",
+    "lab": "~11.0.0",
     "lodash.assign": "~4.2.0",
     "temporary-directory": "~1.0.1",
     "win-spawn": "~2.0.0"
