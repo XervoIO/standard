@@ -14,7 +14,7 @@
     "eslint-config-modulus": "2.0.0",
     "eslint-plugin-hapi": "4.0.0",
     "eslint-plugin-promise": "2.0.1",
-    "standard-engine": "4.1.1"
+    "standard-engine": "5.1.0"
   },
   "devDependencies": {
     "code": "~3.0.2",
