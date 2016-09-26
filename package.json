@@ -10,7 +10,7 @@
     "url": "https://github.com/onmodulus/standard/issues"
   },
   "dependencies": {
-    "eslint": "3.4.0",
+    "eslint": "3.6.1",
     "eslint-config-modulus": "2.0.0",
     "eslint-plugin-hapi": "4.0.0",
     "eslint-plugin-promise": "2.0.1",
