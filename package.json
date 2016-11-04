@@ -13,7 +13,7 @@
     "eslint": "3.4.0",
     "eslint-config-modulus": "2.0.0",
     "eslint-plugin-hapi": "4.0.0",
-    "eslint-plugin-promise": "2.0.1",
+    "eslint-plugin-promise": "3.3.1",
     "standard-engine": "5.1.0"
   },
   "devDependencies": {
