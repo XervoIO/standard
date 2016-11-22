@@ -17,7 +17,7 @@
     "standard-engine": "5.1.0"
   },
   "devDependencies": {
-    "code": "~3.0.2",
+    "code": "~4.0.0",
     "lab": "~11.0.1",
     "lodash.assign": "~4.2.0",
     "temporary-directory": "~1.0.1",
