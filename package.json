@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "code": "~3.0.2",
-    "lab": "~11.0.1",
+    "lab": "~11.2.2",
     "lodash.assign": "~4.2.0",
     "temporary-directory": "~1.0.1",
     "win-spawn": "~2.0.0"
